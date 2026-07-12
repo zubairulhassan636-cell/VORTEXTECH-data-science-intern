@@ -1,1 +1,0 @@
-# VORTEXTECH-data-science-intern
